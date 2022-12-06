@@ -6,7 +6,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnvj0033)
 
 ### I am
-- Developed [ZZAL_KAK](https://zzalkak.com/pf/index.php) Android
 - Work for [JOARA](https://www.joara.com/) [2021.09~]
 - Worked for KAIST [2020.01~2021.08]
 
