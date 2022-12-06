@@ -9,7 +9,7 @@
 - Developed [ZZAL_KAK](https://zzalkak.com/pf/index.php) Android
 - Work for [JOARA](https://www.joara.com/) [2021.09~]
 - Worked for KAIST [2020.01~2021.08]
-- [IQ is in 99th percentile](https://developer.android.com/jetpack/compose](https://international-iq-test.com/ko/60c8600a-5100-4b78-8fad-4a8795ca4579))
+- [IQ is in 99th percentile](https://international-iq-test.com/ko/60c8600a-5100-4b78-8fad-4a8795ca4579)
 
 
 ### Android Sample Code
