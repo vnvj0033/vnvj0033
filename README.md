@@ -13,7 +13,7 @@
 ### Android Sample Code
 - [Dagger](https://github.com/vnvj0033/Android_Dagger)
 - [Hilt](https://github.com/vnvj0033/Android_Hilt)
-- [ViewModel LiveData](https://github.com/vnvj0033/Android_ViewModel)
+- [ViewModel LiveData StateFlow](https://github.com/vnvj0033/Android_ViewModel)
 - [Coroutine](https://github.com/vnvj0033/Kotlin_Coroutine_Hands_On)
 - [Flow with Room](https://github.com/vnvj0033/Android_Room_Flow_basic)
 - [Architecture Test](https://github.com/vnvj0033/Android_Architecture_Test_Basic)
