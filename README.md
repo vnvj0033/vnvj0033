@@ -11,7 +11,7 @@
 
 
 ### Android Sample Code
-- [ViewModel Domain](https://github.com/vnvj0033/Android_ViewModel)
+- [ViewModel LiveData StateFlow](https://github.com/vnvj0033/Android_ViewModel)
 - [Dagger](https://github.com/vnvj0033/Android_Dagger)
 - [Hilt](https://github.com/vnvj0033/Android_Hilt)
 - [Coroutine](https://github.com/vnvj0033/Kotlin_Coroutine_Hands_On)
