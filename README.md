@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vnvj0033&show_icons=true&theme=radical&hide=stars)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vnvj0033&show_icons=true&theme=radical&hide=stars)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnvj0033)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vnvj0033)
 
 ### I am
 - Work for [JOARA](https://www.joara.com/) [2021.09~]
