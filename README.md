@@ -6,8 +6,8 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vnvj0033)
 
 ### I am
-- Work for [JOARA](https://www.joara.com/) [2021.09~]
-- Worked for KAIST [2020.01~2021.08]
+- Work at [JOARA](https://www.joara.com/) [2021.09~]
+- Worked at KAIST [2020.01~2021.08]
 
 
 ### Android Sample Code
