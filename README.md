@@ -6,7 +6,7 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vnvj0033)
 
 ### I am
-- Work at [KakaoBank](https://www.kakaobank.com/) [2021.09~2023.03]
+- Work at [KakaoBank](https://www.kakaobank.com/) [2023.04~]
 - Worked at [JOARA](https://www.joara.com/) [2021.09~2023.03]
 - Worked at KAIST [2020.01~2021.08]
 
